@@ -4,4 +4,3 @@ res = [a + b, a-b, a*b, a/b]
 opr = ['+', '-', '*', '/']
 for c,o in zip(res,opr):
     print(a,o,b,c)
-
