@@ -7,4 +7,4 @@ print(a, '-', b, '=' , res)
 res = a * b
 print(a, '*', b, '=' , res)
 res = a / b
-print(a, '/', b, '=' , res)
+print(a, '/', b, '=' , res) 
