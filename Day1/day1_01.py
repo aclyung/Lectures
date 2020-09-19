@@ -1,0 +1,7 @@
+print("이승엽")
+print(123456)
+print("Hello world")
+print("123456")
+print(2+3)
+print("2+3")
+print("2+3",2+3)
