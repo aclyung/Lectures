@@ -1,6 +1,6 @@
 """coins=[500, 100, 50, 10]
 Money = int(input("구하려는 돈:"))
-numb = 0
+numb = 0 
 
 for a in coins:
     numb+=Money//a
