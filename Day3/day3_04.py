@@ -1,0 +1,5 @@
+t= int(input("정수값을 입력 하시오:"))
+x = float(t)
+t= int(input("정수값을 입력 하시오:"))
+y= float(t)
+print(x+y)

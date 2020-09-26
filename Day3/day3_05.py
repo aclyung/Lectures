@@ -1,0 +1,6 @@
+print("안녕하세요")
+name = input("이름이 어떻게 되시나요? ")
+print("반갑습니다 %s씨 "%name)
+print("이름의 길이는 %d 이군요"  %len(name))
+age = int(input("나이가 어떻게 되시나요? "))
+print("내년이면 %d살이 되시는군요" %(age+1))
